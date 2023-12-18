@@ -1,3 +1,0 @@
-this is a file called file3.
-这是测试使用VScode的变化功能
-这是测试使用VScode的第二次变化功能，增加源代码管理
